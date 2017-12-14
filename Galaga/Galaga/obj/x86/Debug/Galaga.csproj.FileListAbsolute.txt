@@ -1,0 +1,58 @@
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\back.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\bullet.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\bullete.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy3.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy4.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\player.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\ship.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\WhiteSquare.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Content\Text.xnb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Galaga.exe
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Galaga.pdb
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\obj\x86\Debug\Galaga.csprojResolveAssemblyReference.cache
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\obj\x86\Debug\Galaga.exe
+C:\Users\123227\Desktop\Galaga\Galaga\Galaga\obj\x86\Debug\Galaga.pdb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\back.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\bullete.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy3.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy4.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\player.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\ship.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\WhiteSquare.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\Text.xnb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Galaga.exe
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Galaga.pdb
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\obj\x86\Debug\Galaga.csprojResolveAssemblyReference.cache
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\obj\x86\Debug\Galaga.exe
+C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\obj\x86\Debug\Galaga.pdb

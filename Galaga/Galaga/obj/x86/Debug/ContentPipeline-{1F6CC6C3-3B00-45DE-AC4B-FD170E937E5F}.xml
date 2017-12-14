@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>back.png</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\back.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bullete.png</Source>
+      <Name>bullete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\bullete.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy1.png</Source>
+      <Name>enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy1.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy2.png</Source>
+      <Name>enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy2.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy3.png</Source>
+      <Name>enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy3.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy4.png</Source>
+      <Name>enemy4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\enemy4.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.png</Source>
+      <Name>ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WhiteSquare.png</Source>
+      <Name>WhiteSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\WhiteSquare.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Text.spritefont</Source>
+      <Name>Text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\Text.xnb</Output>
+      <Time>2017-12-12T10:14:16-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1F6CC6C3-3B00-45DE-AC4B-FD170E937E5F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\GalagaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mathew\Documents\1 Coding Crud\Galaga\Galaga\Galaga\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-09-29T07:17:43.9855322-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
